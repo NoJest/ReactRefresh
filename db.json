@@ -1,0 +1,34 @@
+{
+  "landlords": [
+    {
+      "id": "1",
+      "name": "Bad Guy",
+      "associated_llcs": "10 parkside LLC",
+      "violations": "Illegal additon"
+    },
+    {
+      "id": "2",
+      "name": "Brett Landington",
+      "associated_llcs": "13 madison LLC",
+      "violations": "Invalid CO"
+    },
+    {
+      "id": "3",
+      "name": "You dont want to know",
+      "associated_llcs": "Grove street LLC",
+      "violations": "Non permitted work order"
+    },
+    {
+      "id": "d33d",
+      "name": "Bad dude",
+      "associated_llcs": "Spanky Doodle LLC",
+      "violations": "they spoanked me infront of everybody"
+    },
+    {
+      "id": "d80e",
+      "name": "Amrita",
+      "associated_llcs": "Bunny corps",
+      "violations": "Let her rabbits eat all my shit"
+    }
+  ]
+}
